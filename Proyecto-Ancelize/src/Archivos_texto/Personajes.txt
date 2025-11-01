@@ -1,0 +1,60 @@
+asd = {
+    nivel: 1
+    clase: Ninja pirata
+    vida: 135
+    mana: 73
+    fuerza: 14
+    agilidad: 24
+    destreza: 19
+    vitalidad: 8
+    resistencia: 8
+    inteligencia: 8
+    carisma: 8
+    suerte: 14
+}
+
+Arstor = {
+    nivel: 1
+    clase: Caballero templario
+    vida: 295
+    mana: 63
+    fuerza: 14
+    agilidad: 8
+    destreza: 8
+    vitalidad: 24
+    resistencia: 22
+    inteligencia: 6
+    carisma: 8
+    suerte: 10
+}
+
+Brayan = {
+    nivel: 1
+    clase: Medico
+    vida: 85
+    mana: 48
+    fuerza: 3
+    agilidad: 3
+    destreza: 3
+    vitalidad: 3
+    resistencia: 2
+    inteligencia: 3
+    carisma: 2
+    suerte: 1
+}
+
+Robert = {
+    nivel: 1
+    clase: Caballero
+    vida: 105
+    mana: 38
+    fuerza: 10
+    agilidad: 0
+    destreza: 0
+    vitalidad: 5
+    resistencia: 1
+    inteligencia: 1
+    carisma: 2
+    suerte: 1
+}
+
